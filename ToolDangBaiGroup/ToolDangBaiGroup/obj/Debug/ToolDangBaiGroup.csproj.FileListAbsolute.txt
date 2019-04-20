@@ -1,0 +1,39 @@
+C:\Cong Viec\Project\ToolDangBaiGroup\ToolDangBaiGroup\bin\Debug\ToolDangBaiGroup.exe.config
+C:\Cong Viec\Project\ToolDangBaiGroup\ToolDangBaiGroup\bin\Debug\ToolDangBaiGroup.exe
+C:\Cong Viec\Project\ToolDangBaiGroup\ToolDangBaiGroup\bin\Debug\ToolDangBaiGroup.pdb
+C:\Cong Viec\Project\ToolDangBaiGroup\ToolDangBaiGroup\bin\Debug\WebDriver.dll
+C:\Cong Viec\Project\ToolDangBaiGroup\ToolDangBaiGroup\bin\Debug\WebDriver.xml
+C:\Cong Viec\Project\ToolDangBaiGroup\ToolDangBaiGroup\obj\Debug\ToolDangBaiGroup.Form1.resources
+C:\Cong Viec\Project\ToolDangBaiGroup\ToolDangBaiGroup\obj\Debug\ToolDangBaiGroup.Properties.Resources.resources
+C:\Cong Viec\Project\ToolDangBaiGroup\ToolDangBaiGroup\obj\Debug\ToolDangBaiGroup.csproj.GenerateResource.cache
+C:\Cong Viec\Project\ToolDangBaiGroup\ToolDangBaiGroup\obj\Debug\ToolDangBaiGroup.csproj.CoreCompileInputs.cache
+C:\Cong Viec\Project\ToolDangBaiGroup\ToolDangBaiGroup\obj\Debug\ToolDangBaiGroup.csproj.CopyComplete
+C:\Cong Viec\Project\ToolDangBaiGroup\ToolDangBaiGroup\obj\Debug\ToolDangBaiGroup.exe
+C:\Cong Viec\Project\ToolDangBaiGroup\ToolDangBaiGroup\obj\Debug\ToolDangBaiGroup.pdb
+C:\Cong Viec\Project\ToolDangBaiGroup\ToolDangBaiGroup\obj\Debug\ToolDangBaiGroup.csprojAssemblyReference.cache
+C:\Users\BMJ_AD\Downloads\code\ToolDangBaiGroup (4)\ToolDangBaiGroup\ToolDangBaiGroup\bin\Debug\ToolDangBaiGroup.exe.config
+C:\Users\BMJ_AD\Downloads\code\ToolDangBaiGroup (4)\ToolDangBaiGroup\ToolDangBaiGroup\bin\Debug\ToolDangBaiGroup.exe
+C:\Users\BMJ_AD\Downloads\code\ToolDangBaiGroup (4)\ToolDangBaiGroup\ToolDangBaiGroup\bin\Debug\ToolDangBaiGroup.pdb
+C:\Users\BMJ_AD\Downloads\code\ToolDangBaiGroup (4)\ToolDangBaiGroup\ToolDangBaiGroup\bin\Debug\WebDriver.dll
+C:\Users\BMJ_AD\Downloads\code\ToolDangBaiGroup (4)\ToolDangBaiGroup\ToolDangBaiGroup\bin\Debug\WebDriver.xml
+C:\Users\BMJ_AD\Downloads\code\ToolDangBaiGroup (4)\ToolDangBaiGroup\ToolDangBaiGroup\obj\Debug\ToolDangBaiGroup.csprojAssemblyReference.cache
+C:\Users\BMJ_AD\Downloads\code\ToolDangBaiGroup (4)\ToolDangBaiGroup\ToolDangBaiGroup\obj\Debug\ToolDangBaiGroup.Form1.resources
+C:\Users\BMJ_AD\Downloads\code\ToolDangBaiGroup (4)\ToolDangBaiGroup\ToolDangBaiGroup\obj\Debug\ToolDangBaiGroup.Properties.Resources.resources
+C:\Users\BMJ_AD\Downloads\code\ToolDangBaiGroup (4)\ToolDangBaiGroup\ToolDangBaiGroup\obj\Debug\ToolDangBaiGroup.csproj.GenerateResource.cache
+C:\Users\BMJ_AD\Downloads\code\ToolDangBaiGroup (4)\ToolDangBaiGroup\ToolDangBaiGroup\obj\Debug\ToolDangBaiGroup.csproj.CoreCompileInputs.cache
+C:\Users\BMJ_AD\Downloads\code\ToolDangBaiGroup (4)\ToolDangBaiGroup\ToolDangBaiGroup\obj\Debug\ToolDangBaiGroup.csproj.CopyComplete
+C:\Users\BMJ_AD\Downloads\code\ToolDangBaiGroup (4)\ToolDangBaiGroup\ToolDangBaiGroup\obj\Debug\ToolDangBaiGroup.exe
+C:\Users\BMJ_AD\Downloads\code\ToolDangBaiGroup (4)\ToolDangBaiGroup\ToolDangBaiGroup\obj\Debug\ToolDangBaiGroup.pdb
+C:\Users\BMJ_AD\Downloads\updatefeature\ToolDangBaiGroup\ToolDangBaiGroup\bin\Debug\ToolDangBaiGroup.exe.config
+C:\Users\BMJ_AD\Downloads\updatefeature\ToolDangBaiGroup\ToolDangBaiGroup\bin\Debug\ToolDangBaiGroup.exe
+C:\Users\BMJ_AD\Downloads\updatefeature\ToolDangBaiGroup\ToolDangBaiGroup\bin\Debug\ToolDangBaiGroup.pdb
+C:\Users\BMJ_AD\Downloads\updatefeature\ToolDangBaiGroup\ToolDangBaiGroup\bin\Debug\WebDriver.dll
+C:\Users\BMJ_AD\Downloads\updatefeature\ToolDangBaiGroup\ToolDangBaiGroup\bin\Debug\WebDriver.xml
+C:\Users\BMJ_AD\Downloads\updatefeature\ToolDangBaiGroup\ToolDangBaiGroup\obj\Debug\ToolDangBaiGroup.csprojAssemblyReference.cache
+C:\Users\BMJ_AD\Downloads\updatefeature\ToolDangBaiGroup\ToolDangBaiGroup\obj\Debug\ToolDangBaiGroup.Form1.resources
+C:\Users\BMJ_AD\Downloads\updatefeature\ToolDangBaiGroup\ToolDangBaiGroup\obj\Debug\ToolDangBaiGroup.Properties.Resources.resources
+C:\Users\BMJ_AD\Downloads\updatefeature\ToolDangBaiGroup\ToolDangBaiGroup\obj\Debug\ToolDangBaiGroup.csproj.GenerateResource.cache
+C:\Users\BMJ_AD\Downloads\updatefeature\ToolDangBaiGroup\ToolDangBaiGroup\obj\Debug\ToolDangBaiGroup.csproj.CoreCompileInputs.cache
+C:\Users\BMJ_AD\Downloads\updatefeature\ToolDangBaiGroup\ToolDangBaiGroup\obj\Debug\ToolDangBaiGroup.csproj.CopyComplete
+C:\Users\BMJ_AD\Downloads\updatefeature\ToolDangBaiGroup\ToolDangBaiGroup\obj\Debug\ToolDangBaiGroup.exe
+C:\Users\BMJ_AD\Downloads\updatefeature\ToolDangBaiGroup\ToolDangBaiGroup\obj\Debug\ToolDangBaiGroup.pdb
